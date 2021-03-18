@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there 👋
 
 ### Profile:
 **M1 / Robotics / RoboCup@Home**
