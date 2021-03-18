@@ -1,4 +1,4 @@
-# <img src="https://github.com/HappyTatsuhito/HappyTatsuhito/blob/main/mimi_happy.png?raw=true" width="50" height="50"/>Hi there 
+# <img src="https://github.com/HappyTatsuhito/HappyTatsuhito/blob/main/mimi_happy.png?raw=true" width="50" height="50"/>Hi there 👋
 
 ### Profile:
 **M1 / Robotics / RoboCup@Home**
