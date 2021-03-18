@@ -2,7 +2,7 @@
 
 <!-- **Profile:** M1 / Robotics / RoboCup@Home -->
 ### Profile:
-M1 / Robotics / RoboCup@Home
+**M1 / Robotics / RoboCup@Home**
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
