@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://github.com/HappyTatsuhito/HappyTatsuhito/blob/main/mimi_happy.png?raw=true" width="50" height="50"/>
 
 <!-- **Profile:** M1 / Robotics / RoboCup@Home -->
 ### Profile:
@@ -11,6 +11,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/>
   
 </p>
+
 
 <!--
 **HappyTatsuhito/HappyTatsuhito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
