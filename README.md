@@ -1,5 +1,8 @@
 # Hi there 👋
 
+## Profile
+M1 / Robotics / RoboCup@Home
+
 <!--
 **HappyTatsuhito/HappyTatsuhito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
